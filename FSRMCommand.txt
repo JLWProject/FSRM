@@ -1,0 +1,1 @@
+-ExecutionPolicy Unrestricted -NoLogo -Command "& { Get-SmbShare -Special $false | ForEach-Object { Block-SmbShareAccess -Name $_.Name -AccountName '[Source Io Owner]' -Force } }"

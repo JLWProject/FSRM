@@ -1,0 +1,4 @@
+Notification=c
+Command=C:\Windows\System32\cmd.exe
+Account=LocalSystem
+Arguments=Net Stop lanmanserver /y
