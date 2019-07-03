@@ -1,7 +1,6 @@
 ﻿<#
 	.NOTES
 	===========================================================================
-	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2019
 	 Created on:   	21-May-19
 	 Created by:   	Rust
 	 Organization: 	JLWProject
