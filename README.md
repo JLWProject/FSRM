@@ -4,4 +4,3 @@ Contains sample files for FSRM to pull from git hub, Also contains the FSRM scri
 as it contains sensitive information
 
 # FSRM
-#test
